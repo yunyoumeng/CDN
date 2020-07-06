@@ -319,7 +319,7 @@ function exitHander (status) {
   $('#zjsqInfoBoxId').click(function () {
     $('#zjsqInfoBoxId').remove()
   })
-  log('感谢您使用职教书签 v3！现在单击本窗口即可关闭。')
+  log('感谢您使用职教代刷助手 v3！现在单击本窗口即可关闭。')
 };
 
 function globalDataHander () {
