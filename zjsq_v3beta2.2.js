@@ -96,7 +96,7 @@ function initial () {
     // 请保持这种格式，否则getText函数无法从注释中正确提取此处的html
   function zjsqHtml () {/*
 <div id="zjsqInfoBoxId" class="zjsqInfoBox">
-    <div class="zjsqTitle">职教代刷代码 v3 Beta2</div>
+    <div class="zjsqTitle">职教代刷助手 v3 Beta2</div>
     <div id="zjysqInfo">
         -time-欢迎使用职教代刷助手！ | 由：<a href="https://timestove.gitee.io" target="_blank">https://timestove.gitee.io</a>（时光查题网）提供<br>
         -time-基于 @职教书签 二开 | 只用于网络学习，请于24小时内删除~<br>
